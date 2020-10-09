@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="515806aa-c629-406f-9b7f-7e903b5ede39" name="Huy@HNGUYEN 2020-10-03 15:03:53" runUser="HNGUYEN\Huy" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2020-10-03T15:03:53.7165239-05:00" queuing="2020-10-03T15:03:53.7165239-05:00" start="2020-10-03T15:03:51.0728438-05:00" finish="2020-10-03T15:03:53.7685222-05:00" />
+  <TestSettings name="default" id="4d86cc3e-1982-447c-bf84-0f5b1f633ffa">
+    <Deployment runDeploymentRoot="Huy_HNGUYEN_2020-10-03_15_03_53" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="daf863c7-05ad-4fa5-9b12-42a4efe6c9c6" testId="649d6949-8f1e-7cd7-6cc4-b9b25bebe58f" testName="Test003_ViewAccount" computerName="HNGUYEN" duration="00:00:00.0299319" startTime="2020-10-03T15:03:53.2758480-05:00" endTime="2020-10-03T15:03:53.3060382-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="daf863c7-05ad-4fa5-9b12-42a4efe6c9c6" />
+    <UnitTestResult executionId="50686c75-4337-4f91-a29e-9e1d2c0bdca1" testId="e38d67de-e4c5-fba2-89c4-fcd197d13ddd" testName="Test001_SignUpTest" computerName="HNGUYEN" duration="00:00:00.4098334" startTime="2020-10-03T15:03:52.6916262-05:00" endTime="2020-10-03T15:03:53.2340517-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="50686c75-4337-4f91-a29e-9e1d2c0bdca1" />
+    <UnitTestResult executionId="08daa42e-f204-47e8-8c5e-1420f5c87cfe" testId="8db3d201-ea05-92ba-4c59-14c406f9eabd" testName="Test004_ChangeAccount" computerName="HNGUYEN" duration="00:00:00.0165542" startTime="2020-10-03T15:03:53.3061157-05:00" endTime="2020-10-03T15:03:53.3231733-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="08daa42e-f204-47e8-8c5e-1420f5c87cfe" />
+    <UnitTestResult executionId="6f4a9148-df44-457c-bc18-3920fabe6cd9" testId="5042b43f-7e0a-29ef-16fc-f418b376f076" testName="Test002_SignInTest" computerName="HNGUYEN" duration="00:00:00.0200379" startTime="2020-10-03T15:03:53.2553410-05:00" endTime="2020-10-03T15:03:53.2757619-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6f4a9148-df44-457c-bc18-3920fabe6cd9" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="Test001_SignUpTest" storage="c:\users\huy\source\repos\restsharp_dotnet\restsharp1\restsharp1\bin\release\netcoreapp3.1\restsharp1.dll" id="e38d67de-e4c5-fba2-89c4-fcd197d13ddd">
+      <Execution id="50686c75-4337-4f91-a29e-9e1d2c0bdca1" />
+      <TestMethod codeBase="C:\Users\Huy\source\repos\restsharp_dotnet\RestSharp1\RestSharp1\bin\Release\netcoreapp3.1\RestSharp1.dll" adapterTypeName="executor://mstestadapter/v2" className="RestSharp1.APITest" name="Test001_SignUpTest" />
+    </UnitTest>
+    <UnitTest name="Test003_ViewAccount" storage="c:\users\huy\source\repos\restsharp_dotnet\restsharp1\restsharp1\bin\release\netcoreapp3.1\restsharp1.dll" id="649d6949-8f1e-7cd7-6cc4-b9b25bebe58f">
+      <Execution id="daf863c7-05ad-4fa5-9b12-42a4efe6c9c6" />
+      <TestMethod codeBase="C:\Users\Huy\source\repos\restsharp_dotnet\RestSharp1\RestSharp1\bin\Release\netcoreapp3.1\RestSharp1.dll" adapterTypeName="executor://mstestadapter/v2" className="RestSharp1.APITest" name="Test003_ViewAccount" />
+    </UnitTest>
+    <UnitTest name="Test004_ChangeAccount" storage="c:\users\huy\source\repos\restsharp_dotnet\restsharp1\restsharp1\bin\release\netcoreapp3.1\restsharp1.dll" id="8db3d201-ea05-92ba-4c59-14c406f9eabd">
+      <Execution id="08daa42e-f204-47e8-8c5e-1420f5c87cfe" />
+      <TestMethod codeBase="C:\Users\Huy\source\repos\restsharp_dotnet\RestSharp1\RestSharp1\bin\Release\netcoreapp3.1\RestSharp1.dll" adapterTypeName="executor://mstestadapter/v2" className="RestSharp1.APITest" name="Test004_ChangeAccount" />
+    </UnitTest>
+    <UnitTest name="Test002_SignInTest" storage="c:\users\huy\source\repos\restsharp_dotnet\restsharp1\restsharp1\bin\release\netcoreapp3.1\restsharp1.dll" id="5042b43f-7e0a-29ef-16fc-f418b376f076">
+      <Execution id="6f4a9148-df44-457c-bc18-3920fabe6cd9" />
+      <TestMethod codeBase="C:\Users\Huy\source\repos\restsharp_dotnet\RestSharp1\RestSharp1\bin\Release\netcoreapp3.1\RestSharp1.dll" adapterTypeName="executor://mstestadapter/v2" className="RestSharp1.APITest" name="Test002_SignInTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="649d6949-8f1e-7cd7-6cc4-b9b25bebe58f" executionId="daf863c7-05ad-4fa5-9b12-42a4efe6c9c6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e38d67de-e4c5-fba2-89c4-fcd197d13ddd" executionId="50686c75-4337-4f91-a29e-9e1d2c0bdca1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8db3d201-ea05-92ba-4c59-14c406f9eabd" executionId="08daa42e-f204-47e8-8c5e-1420f5c87cfe" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5042b43f-7e0a-29ef-16fc-f418b376f076" executionId="6f4a9148-df44-457c-bc18-3920fabe6cd9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="4" executed="4" passed="4" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+</TestRun>

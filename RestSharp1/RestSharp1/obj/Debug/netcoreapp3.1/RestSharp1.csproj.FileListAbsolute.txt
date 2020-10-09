@@ -83,7 +83,6 @@ C:\Users\Huy\source\repos\restsharp_dotnet\RestSharp1\RestSharp1\bin\Debug\netco
 C:\Users\Huy\source\repos\restsharp_dotnet\RestSharp1\RestSharp1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Users\Huy\source\repos\restsharp_dotnet\RestSharp1\RestSharp1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\Huy\source\repos\restsharp_dotnet\RestSharp1\RestSharp1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Huy\source\repos\restsharp_dotnet\RestSharp1\RestSharp1\obj\Debug\netcoreapp3.1\RestSharp1.csprojAssemblyReference.cache
 C:\Users\Huy\source\repos\restsharp_dotnet\RestSharp1\RestSharp1\obj\Debug\netcoreapp3.1\RestSharp1.AssemblyInfoInputs.cache
 C:\Users\Huy\source\repos\restsharp_dotnet\RestSharp1\RestSharp1\obj\Debug\netcoreapp3.1\RestSharp1.AssemblyInfo.cs
 C:\Users\Huy\source\repos\restsharp_dotnet\RestSharp1\RestSharp1\obj\Debug\netcoreapp3.1\RestSharp1.csproj.CopyComplete
@@ -94,3 +93,4 @@ C:\Users\Huy\source\repos\restsharp_dotnet\RestSharp1\RestSharp1\obj\Debug\netco
 C:\Users\Huy\source\repos\restsharp_dotnet\RestSharp1\RestSharp1\obj\Debug\netcoreapp3.1\RestSharp1.dll
 C:\Users\Huy\source\repos\restsharp_dotnet\RestSharp1\RestSharp1\obj\Debug\netcoreapp3.1\RestSharp1.pdb
 C:\Users\Huy\source\repos\restsharp_dotnet\RestSharp1\RestSharp1\bin\Debug\netcoreapp3.1\RestSharp1.exe
+C:\Users\Huy\source\repos\restsharp_dotnet\RestSharp1\RestSharp1\obj\Debug\netcoreapp3.1\RestSharp1.csprojAssemblyReference.cache

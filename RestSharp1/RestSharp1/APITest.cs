@@ -145,8 +145,8 @@ namespace RestSharp1
             Assert.AreEqual(accountDto.AccountNo, ACCOUNT_NO);
             Assert.AreEqual(accountDto.AccountName, UPDATED_ACCOUNT_NAME);
             Assert.AreEqual(accountDto.Balance, UPDATED_ACCOUNT_BALANCE);
-            
-            
+
+
 
         }
 
